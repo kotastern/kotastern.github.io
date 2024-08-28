@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://kotastern.github.io/sitemap/sitemap.txt
